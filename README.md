@@ -1,6 +1,6 @@
 Google Chrome Extension
 
-This version is more advance than [tutorial](https://developer.chrome.com/extensions/getstarted "tutorial")
+Followed the [tutorial](https://developer.chrome.com/extensions/getstarted "tutorial") provided 
 
 
 Customized the default and option colors
